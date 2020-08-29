@@ -13,6 +13,8 @@ header>ul {
     padding: 0;
     overflow: hidden;
     background-color: #fa8072;
+    font-family: 'Comfortaa', cursive;
+    color: purple
   }
 
   header>ul>li {
@@ -119,11 +121,13 @@ li a:hover:not(.active) {
 }
 
 h1 {
-    font-family: brush script, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: serif;
+    color: purple;
 }
 
 h2 {
     font-family: brush script, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
 }
 
 fieldset {
